@@ -1,0 +1,29 @@
+/* style.css */
+
+
+p {color: maroon;}
+span { color:white;background-color:black;}
+.crveni {color:red;}
+
+body {
+background-image: url("documents/amy-humphries-2M_sDJ_agvs-unsplash.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+margin: 0;
+}
+body{
+padding: 60px;
+}
+
+p{
+	font-family: "Comic Sans MS";
+}
+
+p{
+	height: auto;
+}
+
+mark {
+	background: red;
+}
